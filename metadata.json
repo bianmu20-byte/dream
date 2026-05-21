@@ -1,0 +1,8 @@
+{
+  "name": "售卖我的青春",
+  "description": "一个创意个人电商网页，售卖与青春、梦想相关的虚拟商品。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
